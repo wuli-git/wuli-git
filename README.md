@@ -18,6 +18,6 @@ All repositories are under **MIT License** ⚖️
 ---
 ✨ Code for fun, code for life ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwuli-git=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuli-git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/wuli-git=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/wuli-git=fox)
