@@ -17,3 +17,5 @@ All repositories are under **MIT License** ⚖️
 
 ---
 ✨ Code for fun, code for life ✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuli-git)
