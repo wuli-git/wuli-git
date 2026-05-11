@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**wuli-git/wuli-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+A passionate developer who loves coding and building cool projects.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+💻 Vue / Uni-app / HTML / CSS / JS/cpp/c/java/python
+🖥️ Computer Basics & Web Development&unix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Status
+- 🔭 Focus on personal project practice
+- 🌱 Keep learning, keep improving
+- 📂 All demos & projects open sourced here
+
+### 📄 License
+All repositories are under **MIT License** ⚖️
+
+---
+✨ Code for fun, code for life ✨
