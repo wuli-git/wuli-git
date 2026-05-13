@@ -1,6 +1,4 @@
-<div style="background-color: rgba(200, 230, 255, 0.2); min-height: 100vh; padding: 20px; border-radius: 10px;">
-  <!-- 你的GitHub主页内容放这里 -->
-  <h1>## Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Fox;A+Lifelong+Learner;Code+For+Fun✨" />
@@ -30,6 +28,4 @@ All repositories are under **MIT License** ⚖️
   <!-- 访客统计 -->
   <img src="https://komarev.com/ghpvc/?username=wuli-git&color=blueviolet&style=flat-square" alt="Views" />
   <br><br>
-</div>
-</h1>
 </div>
